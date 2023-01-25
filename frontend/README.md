@@ -1,6 +1,5 @@
 ## MERN Stack Todo
 
-A reworking of this [youtube series](https://www.youtube.com/watch?v=qvBZevK1HPo) from coding the smart way, replacing react components with hooks and adding delete option.
 
 Small Full Stack Todo App using MERN Stack:
 
